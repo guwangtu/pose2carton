@@ -27,8 +27,7 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 # 项目结果
 
 
-![image](../img/110.png)
-![image](../img/202.png)
+![image](../img/0101.png)
 
 
 
